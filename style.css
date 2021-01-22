@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: poppins;
+    background-color:#f6f6f6;
+}
+.heading{
+    background-color: #023246;
+    min-height: 180px;
+    width:100%;
+    
+}
+.announcement{
+    margin: 40px 43%;
+    text-align: center;
+}
+.dice{
+    margin: 50px;
+    height: 200px;
+    width: 200px;
+    background-color:#f5fafa;
+    border:2px solid black;
+    border-radius: 10%;
+}
+h1{
+    font-weight: 800;
+    display: block;
+    position: relative;
+    top: 40px;
+    letter-spacing:4px;
+    text-align: center;
+    color: #f6f6f6;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0);
+}
+.valueOne{
+    font-size: 90px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+    margin-top: 30px;
+}
+.valueTwo{
+    font-size: 90px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0);
+    margin-top: 30px;
+}
+.main{
+    margin: 100px 30% ;
+    display: flex;
+}
+.btn{
+    padding: 5px 30px;
+    position: relative;
+    top: 50px;
+    left: 47%;
+    
+    color: #023246;
+    background-color: #f6f6f6;
+    border: 0px;
+
+}
+
+.fp{
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
+.tp{
+    margin-left: 10px;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: center;
+}
